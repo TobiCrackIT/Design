@@ -1,6 +1,6 @@
 # freestyle
 
-A new Flutter application.
+A Flutter implementation of a UI design as seen on uplabs.com.
 
 ## Getting Started
 
